@@ -29,6 +29,17 @@ namespace MvcMovie
             app.MapRazorPages();
 
             app.Run();
+
+            //https://learn.microsoft.com/en-gb/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
+
+            //https://docs.microsoft.com/en-gb/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio
+
+            //https://www.youtube.com/watch?v=Q_juvqsdIlk&list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&index=23
+
+            //https://docs.microsoft.com/en-us/aspnet/core/security/authentication/scaffold-identity?view=aspnetcore-6.0&tabs=visual-studio
+
+            //https://www.youtube.com/watch?v=B0_gM-wBlmE
+
         }
     }
 }
